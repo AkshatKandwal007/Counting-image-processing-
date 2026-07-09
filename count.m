@@ -1,7 +1,6 @@
 % Stone Counter - Aggressive Separation for Tightly Packed Stones
 % Optimized for high-density stone images
 
-% Read the image
 img = imread('/MATLAB Drive/Counting/stones.png');
 figure; imshow(img); title('Original Image');
 
